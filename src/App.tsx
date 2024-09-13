@@ -5,7 +5,7 @@ import './App.css'
 
 const App = () => {
   return (
-    <div>
+    <div className="main-div">
       <Navbar />
       <AddToDo />
       <Todos />
